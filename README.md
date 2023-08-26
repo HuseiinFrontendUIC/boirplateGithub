@@ -1,4 +1,4 @@
-# boirplateGithub
+# Boirplate Github
 General Boiplate Github
 
 This is a Boirplate General case to start the project
